@@ -1,0 +1,24 @@
+{
+  "name": "purescript-lattice",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Risto-Stevcev/purescript-lattice.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.1.0",
+    "purescript-console": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0",
+    "purescript-spec": "^1.0.0",
+    "purescript-spec-quickcheck": "^1.0.0",
+    "purescript-properties": "^0.2.0"
+  }
+}
